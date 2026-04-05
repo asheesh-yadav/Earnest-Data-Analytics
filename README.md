@@ -89,7 +89,7 @@ http://localhost:3000
  Frontend Setup
 
 ```
-cd Client/cd task-frontend
+cd Client
 npm install
 npm run dev
 ```
